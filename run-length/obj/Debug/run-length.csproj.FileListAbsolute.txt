@@ -1,0 +1,12 @@
+C:\Users\HP\source\repos\run-length\run-length\bin\Debug\run-length.exe.config
+C:\Users\HP\source\repos\run-length\run-length\bin\Debug\run-length.exe
+C:\Users\HP\source\repos\run-length\run-length\bin\Debug\run-length.pdb
+C:\Users\HP\source\repos\run-length\run-length\obj\Debug\run-length.csprojResolveAssemblyReference.cache
+C:\Users\HP\source\repos\run-length\run-length\obj\Debug\run_length.Properties.Resources.resources
+C:\Users\HP\source\repos\run-length\run-length\obj\Debug\run-length.csproj.GenerateResource.cache
+C:\Users\HP\source\repos\run-length\run-length\obj\Debug\run-length.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\run-length\run-length\obj\Debug\run-length.exe
+C:\Users\HP\source\repos\run-length\run-length\obj\Debug\run-length.pdb
+C:\Users\HP\source\repos\run-length\run-length\obj\Debug\run_length.About.resources
+C:\Users\HP\source\repos\run-length\run-length\obj\Debug\run_length.Main.resources
+C:\Users\HP\source\repos\run-length\run-length\obj\Debug\run_length.Help.resources
