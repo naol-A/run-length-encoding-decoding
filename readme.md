@@ -1,5 +1,5 @@
-## 					transposition cipher
-### 		columnar, double and myskowski
+## 					runlength
+### 		encoding decoding algorithm
 
 run length encoding decoding algorithm
 * text encoding decoding (supports alpha-numeric, special characters)
